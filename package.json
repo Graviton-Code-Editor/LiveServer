@@ -1,0 +1,10 @@
+{
+    "name": "LiveServer",
+    "version": "0.0.1",
+    "description": "A liveserver plugin",
+    "author": "Marc Espín",
+    "main": "main.js",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
